@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RandomFilmK</string>
+    <string name="next">Следующий фильм</string>
+    <string name="reset">Начать заново</string>
+    <string-array name="movies">
+        <item>Начало</item>
+        <item>Форсаж</item>
+        <item>Маска</item>
+        <item>Три дня на побег</item>
+        <item>Матрица</item>
+        <item>12 лет рабства</item>
+        <item>Убить Билла </item>
+        <item>Быстрее пули</item>
+    </string-array>
+
+</resources>
